@@ -6,14 +6,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#525252",
-        secondary: "#414141",
+        primary: "#1f1f1f",
+        secondary: "#171717",
         minimal: "#313131",
         light: "#CA3E47",
         text: "#dad8d5",
       },
       backgroundImage: {
-        "primary-gradient": "radial-gradient(circle, #333333 0%, #303030 100%)",
+        "primary-gradient": "radial-gradient(circle, #333333 0%, #242424 100%)",
       },
     },
   },

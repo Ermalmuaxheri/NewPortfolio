@@ -12,3 +12,6 @@
 
   font-family: "Space Grotesk", sans-serif;
 }
+::-webkit-scrollbar {
+  display: none;
+}
